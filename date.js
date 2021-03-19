@@ -32,6 +32,7 @@ exports.getDate = function() {
 // 	console.log("Error: current day is equal to: " + today.getDay());
 // }
 	const options = {
+		timeZone: "America/Sao_Paulo",
 		weekday: "long",
 		day: "numeric",
 		month: "long"
