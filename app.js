@@ -37,8 +37,6 @@ app.set('view engine', 'ejs');
 
 app.get("/", function(req, res){
 	
-	
-
 	Item.find({}, function(err, foundItems){
 
 		if (foundItems.length === 0) {

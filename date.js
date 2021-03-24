@@ -33,7 +33,7 @@ exports.getDate = function() {
 // }
 	const options = {
 		timeZone: "America/Sao_Paulo",
-		weekday: "long",
+		weekday: "short",
 		day: "numeric",
 		month: "long"
 	};
