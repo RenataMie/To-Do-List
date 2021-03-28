@@ -16,5 +16,5 @@ Here are the technologies used in this project:
 
 ## Links
 
--Repository: https://github.com/RenataMie/To-Do-List
--Deployed: https://cryptic-wildwood-23600.herokuapp.com/
+* Repository: https://github.com/RenataMie/To-Do-List
+* Deployed: https://cryptic-wildwood-23600.herokuapp.com/
